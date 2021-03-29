@@ -8,6 +8,12 @@ Esse é um conjunto de conteúdos que foram organizados sobre data science utili
 
 ### Conteúdo Geral:
 
-1. Básico sobre numpy
-2. Básico sobre pandas
-3. 
+1. [Básico sobre numpy](conteudo/basico-de-numpy.md)
+2. [Básico sobre pandas](conteudo/basico-sobre-pandas.md)
+3. [Estatística](conteudo/estatistica.md)
+4. [Aprendizado de Máquina](conteudo/aprendizado-de-maquina.md)
+5. Deep Learning
+6. NLP
+
+
+

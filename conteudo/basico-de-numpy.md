@@ -1,10 +1,6 @@
----
-description: >-
-  Nesse tópico serão abordados aspectos básicos sobre numpy, como tipo de dados
-  e algumas funções de suas funções mais simples.
----
+# Básico sobre NumPy
 
-# Básico de NumPy
+Nesse tópico serão abordados aspectos básicos sobre numpy, como tipo de dados e algumas funções de suas funções mais simples.
 
 ### Conteúdo
 
