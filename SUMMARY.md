@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Python Data Science](README.md)
+
+## Conteúdo
+
+* [Básico de NumPy](conteudo/basico-de-numpy.md)
 
