@@ -1,4 +1,4 @@
-# Python Data Science
+# Ciência dos Dados em Python?
 
 Esse é um conjunto de conteúdos que foram organizados sobre data science utilizando python em conjunto com as lives no canal [https://twitch.tv/cinderelabugada](https://twitch.tv/cinderelabugada). Esse conjunto de informações foi reunido a partir de diversos sites e livros dentre outras fontes que sempre que possível serão citados em cada módulo estudado. Assim sendo o objetivo desse GitBook é compartilhar parte de conteúdo que em grande parte é compartilhado através das lives no cana.
 

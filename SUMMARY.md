@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Python Data Science](README.md)
+* [Ciência dos Dados em Python?](README.md)
 
 ## Conteúdo
 
