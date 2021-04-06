@@ -14,4 +14,8 @@ Para melhor visualizar esse GitBook utilize o link:  [https://cinderelabugada.gi
 6. NLP
 
 
+### Dependências
+pip install -r requirements.txt
 
+### Referências
+archive.ics.uci.edu

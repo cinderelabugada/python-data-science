@@ -2,6 +2,7 @@
 
 ### Conteúdo
 
+0. Configurar jupyter notebooks
 1. Tipo de dados
 2. Carregando dados
 
