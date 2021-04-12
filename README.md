@@ -19,3 +19,4 @@ pip install -r requirements.txt
 
 ### Referências
 archive.ics.uci.edu
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
