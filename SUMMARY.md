@@ -8,4 +8,5 @@
 * [Básico sobre Pandas](conteudo/basico-sobre-pandas.md)
 * [Estatística](conteudo/estatistica.md)
 * [Aprendizado de Máquina](conteudo/aprendizado-de-maquina.md)
+* [NLP](conteudo/nlp.md)
 

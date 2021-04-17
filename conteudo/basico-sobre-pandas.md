@@ -1,12 +1,12 @@
 # Básico sobre Pandas
 
-### Conteúdo
+## Conteúdo
 
-0. Configurar jupyter notebooks
-1. Tipo de dados
-2. Carregando dados
+1. Configurar jupyter notebooks
+2. Tipo de dados
+3. Carregando dados
 
-### Referências
+## Referências
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/pandas-tutorial/?ref=lbp)
 
